@@ -4,5 +4,11 @@
     "expires": "2030-11-15T18:30:00Z",
     "user": "inuyasha",
     "admin": true
+  },
+  {
+    "key": "4912291410913335430",
+    "expires": "2030-10-01T12:00:00Z",
+    "user": "AkiDG",
+    "admin": true
   }
 ]

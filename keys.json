@@ -82,6 +82,24 @@
     "expires": "2030-10-01T12:00:00Z",
     "user": "Coco Maligno",
     "admin": true
+  },
+  {
+    "key": "4905929630087178308",
+    "expires": "2030-10-01T12:00:00Z",
+    "user": "Harley",
+    "admin": true
+  },
+  {
+    "key": "4908952355801149254",
+    "expires": "2030-10-01T12:00:00Z",
+    "user": "Jinx",
+    "admin": true
+  },
+  {
+    "key": "4907313401869252744",
+    "expires": "2030-10-01T12:00:00Z",
+    "user": "Spooky",
+    "admin": true
   }
 ]
 

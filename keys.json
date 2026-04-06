@@ -100,6 +100,12 @@
     "expires": "2030-10-01T12:00:00Z",
     "user": "Spooky",
     "admin": true
+  },
+  {
+    "key": "4914105604206932972",
+    "expires": "2030-10-01T12:00:00Z",
+    "user": "Hov si Eze to",
+    "admin": true
   }
 ]
 

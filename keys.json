@@ -130,6 +130,12 @@
     "expires": "2030-10-01T12:00:00Z",
     "user": "Teban",
     "admin": true
+  },
+  {
+    "key": "4911864842014010669",
+    "expires": "2030-10-01T12:00:00Z",
+    "user": "Dadi G",
+    "admin": true
   }
 ]
 

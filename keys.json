@@ -142,6 +142,12 @@
     "expires": "2030-10-01T12:00:00Z",
     "user": "Cookies",
     "admin": true
+  },
+  {
+    "key": "4908627780620065764",
+    "expires": "lifetime",
+    "user": "2030-10-01T12:00:00Z",
+    "admin": true
   }
 ]
 

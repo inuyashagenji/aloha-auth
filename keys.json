@@ -145,8 +145,14 @@
   },
   {
     "key": "4908627780620065764",
-    "expires": "lifetime",
-    "user": "2030-10-01T12:00:00Z",
+    "expires": "2030-10-01T12:00:00Z",
+    "user": "Jelly",
+    "admin": true
+  },
+  {
+    "key": "4905030177961058788",
+    "expires": "2030-10-01T12:00:00Z",
+    "user": "Sadie",
     "admin": true
   }
 ]

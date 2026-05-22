@@ -166,5 +166,13 @@
     "expires": "2030-10-01T12:00:00Z",
     "user": "Anak ni Em",
     "admin": true
+  },
+  {
+    "License key": "AMICA-LFT-CMH13B31",
+    "authkey": "N/A",
+    "expires": "lifetime",
+    "user": "N/A",
+    "discord_id": "N/A",
+    "admin": false
   }
 ]

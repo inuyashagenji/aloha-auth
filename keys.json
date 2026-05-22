@@ -166,37 +166,5 @@
     "expires": "2030-10-01T12:00:00Z",
     "user": "Anak ni Em",
     "admin": true
-  },
-  {
-    "License key": "KEY-0AXRGQ5R",
-    "authkey": "0400814355342178454",
-    "expires": "lifetime",
-    "user": "212.97.71.114",
-    "discord_id": "895699270341120011",
-    "admin": false
-  },
-  {
-    "License key": "KEY-24HL027N",
-    "authkey": "5667995223402733217",
-    "expires": "2030-10-01T12:00:00Z",
-    "user": "kuuttikettukoira1066",
-    "discord_id": "922691510435201026",
-    "admin": false
-  },
-  {
-    "License key": "KEY-CNUDFSYH",
-    "authkey": "3331997880362171367",
-    "expires": "lifetime",
-    "user": "N/A",
-    "discord_id": "N/A",
-    "admin": false
-  },
-  {
-    "License key": "AMICA-MTH-H8J00JFR",
-    "authkey": "2071577677251446705",
-    "expires": "30_days",
-    "user": "N/A",
-    "discord_id": "N/A",
-    "admin": false
   }
 ]

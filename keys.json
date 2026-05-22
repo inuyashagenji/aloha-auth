@@ -160,21 +160,5 @@
     "expires": "2030-10-01T12:00:00Z",
     "user": "Anak ni Em",
     "admin": true
-  },
-  {
-    "License key": "AMICA-LFT-WOPZNXLW",
-    "authkey": "11111111111111111111",
-    "expires": "2030-10-01T12:00:00Z",
-    "user": "inugenji",
-    "discord_id": "877145762574786570",
-    "admin": false
-  },
-  {
-    "License key": "AMICA-LFT-SMU7TH9H",
-    "authkey": "11111111111111111",
-    "expires": "2030-10-01T12:00:00Z",
-    "user": "kuuttikettukoira1066",
-    "discord_id": "922691510435201026",
-    "admin": false
   }
 ]

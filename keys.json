@@ -208,5 +208,29 @@
     "user": "N/A",
     "discord_id": "N/A",
     "admin": false
+  },
+  {
+    "License key": "AMICA-MTH-XEM0O4NZ",
+    "authkey": "N/A",
+    "expires": "30_days",
+    "user": "N/A",
+    "discord_id": "N/A",
+    "admin": false
+  },
+  {
+    "License key": "AMICA-MTH-2JCB2LQ6",
+    "authkey": "N/A",
+    "expires": "30_days",
+    "user": "N/A",
+    "discord_id": "N/A",
+    "admin": false
+  },
+  {
+    "License key": "AMICA-MTH-W4557CRA",
+    "authkey": "N/A",
+    "expires": "30_days",
+    "user": "N/A",
+    "discord_id": "N/A",
+    "admin": false
   }
 ]

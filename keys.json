@@ -254,5 +254,21 @@
     "user": "N/A",
     "discord_id": "N/A",
     "admin": false
+  },
+  {
+    "License key": "AMICA-LFT-Q61IKGAD",
+    "authkey": "N/A",
+    "expires": "2030-10-01T12:00:00Z",
+    "user": "N/A",
+    "discord_id": "N/A",
+    "admin": false
+  },
+  {
+    "License key": "AMICA-LFT-0C2X5AHO",
+    "authkey": "N/A",
+    "expires": "2030-10-01T12:00:00Z",
+    "user": "N/A",
+    "discord_id": "N/A",
+    "admin": false
   }
 ]

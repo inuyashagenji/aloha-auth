@@ -316,8 +316,16 @@
     "License key": "AMICA-LFT-YUC7A7NL",
     "authkey": "4910094407976012709",
     "expires": "2030-10-01T12:00:00Z",
-    "user": "isshi.",
-    "discord_id": "214718624387039232",
+    "user": "zion",
+    "discord_id": "1375191394473480375",
+    "admin": false
+  },
+  {
+    "License key": "AMICA-LFT-YUC7A7NL",
+    "authkey": "4904905404702413641",
+    "expires": "2030-10-01T12:00:00Z",
+    "user": "rue",
+    "discord_id": "1402698346757361715",
     "admin": false
   }
 ]

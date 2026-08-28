@@ -184,15 +184,6 @@
     "admin": false
   },
   {
-    "License key": "AMICA-LFT-W8SPOVJR",
-    "authkey": "N/A",
-    "expires": "2030-10-01T12:00:00Z",
-    "user": "N/A",
-    "discord_id": "N/A",
-    "admin": false,
-    "hwid": "N/A"
-  },
-  {
     "License key": "AMICA-LFT-JSC5N9MK",
     "authkey": "4921540665426973764",
     "expires": "2030-10-01T12:00:00Z",
@@ -289,14 +280,6 @@
     "admin": false
   },
   {
-    "License key": "AMICA-MTH-Z1RSXJUZ",
-    "authkey": "N/A",
-    "expires": "30_days",
-    "user": "N/A",
-    "discord_id": "N/A",
-    "admin": false
-  },
-  {
     "License key": "AMICA-LFT-ZE0BEOFJ",
     "authkey": "4919134123736671166",
     "expires": "2030-10-01T12:00:00Z",
@@ -326,14 +309,6 @@
     "expires": "2030-10-01T12:00:00Z",
     "user": "rue",
     "discord_id": "1402698346757361715",
-    "admin": false
-  },
-  {
-    "License key": "AMICA-LFT-E3LTOVOT",
-    "authkey": "N/A",
-    "expires": "2030-10-01T12:00:00Z",
-    "user": "N/A",
-    "discord_id": "N/A",
     "admin": false
   },
   {
